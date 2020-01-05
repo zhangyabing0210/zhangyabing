@@ -1,1 +1,1 @@
-System.out.plaintln("Hello word");
+System.out.plintln("Hello word");
